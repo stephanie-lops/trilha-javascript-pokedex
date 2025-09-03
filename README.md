@@ -21,11 +21,10 @@ Uma Pokedex interativa que lista os primeiros 151 Pokémons, permitindo carregar
 1. Clone o repositório:
 
  ```bash
-    git clone <URL_DO_REPOSITORIO>
+    git clone https://github.com/stephanie-lops/trilha-javascript-pokedex
 ```
 2. Abra o arquivo index.html em seu navegador.
 
-Pronto! Você verá a lista de Pokémons e poderá carregar mais usando o botão Load More.
 
 ## Estrutura do Projeto
 ```bash
@@ -50,7 +49,13 @@ O layout exibe cada Pokémon em um card com:
 
 O estilo utiliza cores diferentes baseadas no tipo do Pokémon.
 
-📝 Observações
+## Observações
 
 - O botão Load More desaparece automaticamente quando todos os 151 Pokémons são carregados.
 - O projeto é totalmente estático e não necessita de backend.
+
+## Preview
+
+![Pokedex Preview](./src/assets/images/pokedex-preview.PNG)
+
+Link deploy: https://trilha-javascript-pokedex.vercel.app/
