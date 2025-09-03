@@ -56,6 +56,6 @@ O estilo utiliza cores diferentes baseadas no tipo do Pokémon.
 
 ## Preview
 
-![Pokedex Preview](./images/pokedex-preview.PNG)
+![Pokedex Preview](./assets/images/pokedex-preview.PNG)
 
 Link deploy: https://trilha-javascript-pokedex.vercel.app/
